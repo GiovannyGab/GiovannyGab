@@ -1,8 +1,8 @@
 # 👋 Hi there
 
-Olá! Meu nome é Giovanny Gabriel e sou um profissional de desenvolvimento de software com um ano de experiência. Minhas principais áreas de especialização são React, Node.js, JavaScript e bancos de dados NoSQL e SQL. Sou apaixonado por tecnologia e estou constantemente atualizando minhas habilidades para acompanhar as tendências do setor. </br>
+Olá! Meu nome é Giovanny Gabriel e sou um profissional de desenvolvimento de software com dois anos de experiência. Minhas principais áreas de especialização são React,Angular, Node.js, JavaScript e bancos de dados NoSQL e SQL. Sou apaixonado por tecnologia e estou constantemente atualizando minhas habilidades para acompanhar as tendências do setor. </br>
 
-Com mais de 1 ano de experiência na área, tive a oportunidade de trabalhar em vários projetos empolgantes e explorar diferentes tecnologias.
+Com mais de 2 anos de experiência na área, tive a oportunidade de trabalhar em vários projetos empolgantes e explorar diferentes tecnologias.
 
 
 # 🚀 Expertise
