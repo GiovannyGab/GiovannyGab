@@ -7,7 +7,7 @@ Com mais de 2 anos de experiência na área, tive a oportunidade de trabalhar em
 
 # 🚀 Expertise
 
-Meu foco principal é o desenvolvimento Fullstack, onde me especializei na construção de aplicações web interativas e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript e Typescript, Node.js e sou proficiente em estruturas e bibliotecas populares, como React as Angular. </br> 
+Meu foco principal é o desenvolvimento Fullstack, onde me especializei na construção de aplicações web interativas e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript e Typescript, Node.js e sou proficiente em estruturas e bibliotecas populares, como React e Angular. </br> 
 Adoro trabalhar no Fullstack porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
 
 # 💻 Tech Stack
